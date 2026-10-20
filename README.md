@@ -7,7 +7,7 @@ Features: fictional demo, visit/date entry, prioritized questions, discussed-que
 
 
 Project: https://devpost.com/software/carebrief
-Demo: https://youtu.be/FNJncNJNXW0
+Demo: https://youtu.be/kCdDq1RzvnI
 
 The attached submission package includes this interactive prototype, a one-page project PDF and a complete code PDF. The demo shows actual prototype interactions with synthesised narration. Use fictional data for demonstration, and review any exported brief before sharing it.
 
